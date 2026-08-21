@@ -57,4 +57,5 @@ Webエンジニア。東京都在住。
 ## Links
 
 [![Website](https://img.shields.io/badge/Website-sumikaze.tech-0A0A0A?style=flat&logo=googlechrome&logoColor=white)](https://sumikaze.tech)
+[![X](https://img.shields.io/badge/X-@sorane__eng-000000?style=flat&logo=x&logoColor=white)](https://x.com/sorane_eng)
 [![Mail](https://img.shields.io/badge/Mail-contact@sumikaze.tech-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@sumikaze.tech)
