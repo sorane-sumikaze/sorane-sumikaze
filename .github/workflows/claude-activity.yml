@@ -1,0 +1,40 @@
+name: Claude activity
+
+on:
+  repository_dispatch:
+    types: [claude-activity]
+  schedule:
+    - cron: '5 15 * * *'  # 00:05 JST。件数が届かない日も、期間と更新日を進める
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 2台から同時に届いても、取り込みと push を1本ずつ順に行う
+concurrency:
+  group: claude-activity
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Tokyo
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Ingest
+        if: github.event_name == 'repository_dispatch'
+        run: python3 claude-activity/ingest.py
+
+      - name: Render
+        run: python3 claude-activity/render.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add claude-activity
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: Claude Code の草を更新"
+          git push

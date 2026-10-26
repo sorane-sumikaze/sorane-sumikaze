@@ -34,6 +34,17 @@ Webエンジニア。東京都在住。
 
 ---
 
+## Claude Code
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="claude-activity/heatmap-dark.svg">
+  <img alt="Claude Code に送ったプロンプトの日別ヒートマップ（直近52週）" src="claude-activity/heatmap.svg">
+</picture>
+
+私が入力したプロンプトだけを日ごとに数えています。ツールの往復、サブエージェント、自動実行は含めません。2台の作業機の合計です。
+
+---
+
 ## Currently
 
 - **sumikaze.tech** — 私のポートフォリオサイト兼実装実験場、~~つまりおもちゃ~~。現在の採用技術は素の HTML / CSS / JS、段階的にモダンスタックへ移行していきます。
