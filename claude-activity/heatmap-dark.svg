@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="719" height="165" viewBox="0 0 719 165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic', sans-serif">
-<text x="0" y="14" font-size="14" fill="#f0f6fc">Claude Code に送ったプロンプト：直近1年で 1,523 件（32 日）</text>
+<text x="0" y="14" font-size="14" fill="#f0f6fc">Claude Code に送ったプロンプト：直近1年で 1,552 件（32 日）</text>
 <rect x="30" y="44" width="10" height="10" rx="2" fill="#151b23"><title>2025-10-26: 0 件</title></rect>
 <rect x="30" y="57" width="10" height="10" rx="2" fill="#151b23"><title>2025-10-27: 0 件</title></rect>
 <rect x="30" y="70" width="10" height="10" rx="2" fill="#151b23"><title>2025-10-28: 0 件</title></rect>
@@ -369,15 +369,15 @@
 <rect x="680" y="96" width="10" height="10" rx="2" fill="#cf630d"><title>2026-10-15: 56 件</title></rect>
 <rect x="680" y="109" width="10" height="10" rx="2" fill="#944812"><title>2026-10-16: 20 件</title></rect>
 <rect x="680" y="122" width="10" height="10" rx="2" fill="#f7945a"><title>2026-10-17: 139 件</title></rect>
-<rect x="693" y="44" width="10" height="10" rx="2" fill="#cf630d"><title>2026-10-18: 21 件</title></rect>
+<rect x="693" y="44" width="10" height="10" rx="2" fill="#944812"><title>2026-10-18: 21 件</title></rect>
 <rect x="693" y="57" width="10" height="10" rx="2" fill="#151b23"><title>2026-10-19: 0 件</title></rect>
 <rect x="693" y="70" width="10" height="10" rx="2" fill="#5e2f11"><title>2026-10-20: 1 件</title></rect>
 <rect x="693" y="83" width="10" height="10" rx="2" fill="#944812"><title>2026-10-21: 18 件</title></rect>
 <rect x="693" y="96" width="10" height="10" rx="2" fill="#cf630d"><title>2026-10-22: 84 件</title></rect>
 <rect x="693" y="109" width="10" height="10" rx="2" fill="#5e2f11"><title>2026-10-23: 3 件</title></rect>
 <rect x="693" y="122" width="10" height="10" rx="2" fill="#5e2f11"><title>2026-10-24: 1 件</title></rect>
-<rect x="706" y="44" width="10" height="10" rx="2" fill="#cf630d"><title>2026-10-25: 21 件</title></rect>
-<rect x="706" y="57" width="10" height="10" rx="2" fill="#944812"><title>2026-10-26: 7 件</title></rect>
+<rect x="706" y="44" width="10" height="10" rx="2" fill="#944812"><title>2026-10-25: 21 件</title></rect>
+<rect x="706" y="57" width="10" height="10" rx="2" fill="#cf630d"><title>2026-10-26: 36 件</title></rect>
 <text x="0" y="66" font-size="10" fill="#9198a1">月</text>
 <text x="0" y="92" font-size="10" fill="#9198a1">水</text>
 <text x="0" y="118" font-size="10" fill="#9198a1">金</text>
