@@ -382,10 +382,11 @@
 <rect x="706" y="83" width="10" height="10" rx="2" fill="#e4762c"><title>2026-10-28: 80 件</title></rect>
 <rect x="706" y="96" width="10" height="10" rx="2" fill="#ebedf0"><title>2026-10-29: 0 件</title></rect>
 <rect x="706" y="109" width="10" height="10" rx="2" fill="#f9cdb5"><title>2026-10-30: 3 件</title></rect>
+<rect x="706" y="122" width="10" height="10" rx="2" fill="#ebedf0"><title>2026-10-31: 0 件</title></rect>
 <text x="0" y="66" font-size="10" fill="#59636e">月</text>
 <text x="0" y="92" font-size="10" fill="#59636e">水</text>
 <text x="0" y="118" font-size="10" fill="#59636e">金</text>
-<text x="30" y="156" font-size="10" fill="#59636e">2026-10-30 更新</text>
+<text x="30" y="156" font-size="10" fill="#59636e">2026-10-31 更新</text>
 <text x="612" y="156" font-size="10" fill="#59636e">少</text>
 <rect x="628" y="147" width="10" height="10" rx="2" fill="#ebedf0"/>
 <rect x="641" y="147" width="10" height="10" rx="2" fill="#f9cdb5"/>
